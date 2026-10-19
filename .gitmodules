@@ -1,0 +1,9 @@
+[submodule "/home/gerry/Downloads/pands/pands_project"]
+	path = /home/gerry/Downloads/pands/pands_project
+	url = https://github.com/callagg2/pands-project
+[submodule "/home/gerry/Downloads/pands/pands_weekly-tasks"]
+	path = /home/gerry/Downloads/pands/pands_weekly-tasks
+	url = https://github.com/callagg2/pands-weekly-tasks
+[submodule "/home/gerry/Downloads/pands/pands_mywork"]
+	path = /home/gerry/Downloads/pands/pands_mywork
+	url = https://github.com/callagg2/pands-mywork
